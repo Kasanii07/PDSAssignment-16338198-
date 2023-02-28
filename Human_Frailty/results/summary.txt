@@ -1,0 +1,14 @@
+      ...1       Height..Inches. Weight..Pounds.      Age        Grip.Strength  
+ Min.   : 1.00   Min.   :65.80   Min.   :112.0   Min.   :17.00   Min.   :19.00  
+ 1st Qu.: 3.25   1st Qu.:67.83   1st Qu.:120.8   1st Qu.:22.25   1st Qu.:22.50  
+ Median : 5.50   Median :68.45   Median :136.0   Median :29.50   Median :27.00  
+ Mean   : 5.50   Mean   :68.60   Mean   :131.9   Mean   :32.50   Mean   :26.00  
+ 3rd Qu.: 7.75   3rd Qu.:69.70   3rd Qu.:141.8   3rd Qu.:43.50   3rd Qu.:29.75  
+ Max.   :10.00   Max.   :71.50   Max.   :153.0   Max.   :51.00   Max.   :31.00  
+   Frailty         
+ Length:10         
+ Class :character  
+ Mode  :character  
+                   
+                   
+                   

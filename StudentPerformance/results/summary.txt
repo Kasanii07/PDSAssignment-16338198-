@@ -1,0 +1,4 @@
+ X.gender.race.ethnicity.parental.level.of.education.lunch.test.preparation.course.math.score.reading.score.writing.score
+ Length:1000                                                                                                             
+ Class :character                                                                                                        
+ Mode  :character                                                                                                        
